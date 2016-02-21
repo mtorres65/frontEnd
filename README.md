@@ -1,2 +1,0 @@
-# frontEnd
-Practicas de FrontEND
